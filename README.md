@@ -66,6 +66,52 @@ I'm a **Full Stack Developer** who builds complete web applications on the **.NE
 
 <div align="center">
 
+<a href="https://github.com/jalya07/FINAL_APP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jalya07&repo=FINAL_APP&theme=transparent&title_color=A78BFA&text_color=C9D1D9&icon_color=06B6D4&border_color=30363D&hide_border=false" alt="MeetSpot"/>
+</a>
+<a href="https://github.com/jalya07/Careerbeam">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jalya07&repo=Careerbeam&theme=transparent&title_color=A78BFA&text_color=C9D1D9&icon_color=06B6D4&border_color=30363D&hide_border=false" alt="Careerbeam"/>
+</a>
+<a href="https://github.com/jalya07/ApiMiniApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jalya07&repo=ApiMiniApp&theme=transparent&title_color=A78BFA&text_color=C9D1D9&icon_color=06B6D4&border_color=30363D&hide_border=false" alt="ApiMiniApp"/>
+</a>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jalya07&show_icons=true&theme=transparent&title_color=A78BFA&text_color=C9D1D9&icon_color=06B6D4&border_color=30363D" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalya07&layout=compact&theme=transparent&title_color=A78BFA&text_color=C9D1D9&border_color=30363D" alt="Top languages"/>
+
+</div>
+
+<br/>
+
+## 🎓 Education
+
+**Code Academy**, Azerbaijan: Full Stack .NET program (diploma)
+
+<br/>
+
+## 📫 Let's Connect
+
+I'm open to internships and junior positions. The fastest way to reach me is by email: **jalahasanli07@gmail.com**, or send me a message on [LinkedIn](https://www.linkedin.com/in/jalya-hesenli-35455535a).
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,100:7C3AED" width="100%" alt="footer"/>
+</div>//img.shields.io/badge/Dependency_Injection-06B6D4?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-A78BFA?style=flat-square)
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
 <a href="https://github.com/jalya07/MeetSpot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jalya07&repo=MeetSpot&theme=transparent&title_color=A78BFA&text_color=C9D1D9&icon_color=06B6D4&border_color=30363D&hide_border=false" alt="MeetSpot"/>
 </a>
